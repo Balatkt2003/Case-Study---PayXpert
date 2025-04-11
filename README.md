@@ -2,7 +2,6 @@
 
 ## 📌 Project: PayXpert - Payroll Management System  
 **🗓 Duration:** April 2025  
-**👨‍💻 Role:** Java Developer  
 
 ## 🛠️ Technology Stack
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
@@ -16,7 +15,7 @@
 ---
 
 ## 📄 Description
-**PayXpert** is an end-to-end Payroll Management System developed for **Hexaware Technologies**. It streamlines payroll operations by automating employee data handling, salary computation, tax deductions, and payslip generation.
+**PayXpert** is an end-to-end Demo Payroll Management System developed for **Hexaware Technologies**. It streamlines payroll operations by automating employee data handling, salary computation, tax deductions, and payslip generation.
 
 ---
 
